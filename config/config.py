@@ -173,7 +173,7 @@ START_IMG_URL = getenv("START_IMG_URL", None)
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/91533956c91d0fd7c9f20.jpg",
+    "https://telegra.ph/file/939a3bba887f33904b357.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -213,7 +213,7 @@ SOUNCLOUD_IMG_URL = getenv(
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://telegra.ph/file/76d29aa31c40a7f026d7e.jpg",
+    "https://telegra.ph/file/939a3bba887f33904b357.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
